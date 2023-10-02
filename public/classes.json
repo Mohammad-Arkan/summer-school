@@ -1,0 +1,182 @@
+[
+  {
+    "_id": 1,
+    "className": "Introduction to Programming",
+    "image": "https://i.ibb.co/nskPQst/programming.jpg",
+    "instructorName": "John Doe",
+    "price": 49.99,
+    "availableSeats": 20,
+    "selectButton": "Enroll Now"
+  },
+  {
+    "_id": 2,
+    "className": "Web Development Fundamentals",
+    "image": "https://i.ibb.co/93h5fSq/web_dev.jpg",
+    "instructorName": "Jane Smith",
+    "price": 59.99,
+    "availableSeats": 15,
+    "selectButton": "Enroll Now"
+  },
+  {
+    "_id": 3,
+    "className": "Data Science Basics",
+    "image": "https://i.ibb.co/B2ZjHC3/data_science.jpg",
+    "instructorName": "Alan Johnson",
+    "price": 79.99,
+    "availableSeats": 10,
+    "selectButton": "Enroll Now"
+  },
+  {
+    "_id": 4,
+    "className": "Graphic Design Essentials",
+    "image": "https://i.ibb.co/wKCbZj3/graphic_design.jpg",
+    "instructorName": "Emily Williams",
+    "price": 69.99,
+    "availableSeats": 18,
+    "selectButton": "Enroll Now"
+  },
+  {
+    "_id": 5,
+    "className": "Mobile App Development",
+    "image": "https://i.ibb.co/9rr9C7M/mobile_app_dev.jpg",
+    "instructorName": "Michael Brown",
+    "price": 89.99,
+    "availableSeats": 12,
+    "selectButton": "Enroll Now"
+  },
+  {
+    "_id": 6,
+    "className": "Artificial Intelligence Fundamentals",
+    "image": "https://i.ibb.co/qssmGG2/ai_fundamentals.jpg",
+    "instructorName": "Sophia Lee",
+    "price": 99.99,
+    "availableSeats": 15,
+    "selectButton": "Enroll Now"
+  },
+  {
+    "_id": 7,
+    "className": "Digital Marketing Strategies",
+    "image": "https://i.ibb.co/cTMSLP2/digital_marketing.jpg",
+    "instructorName": "David Miller",
+    "price": 79.99,
+    "availableSeats": 20,
+    "selectButton": "Enroll Now"
+  },
+  {
+    "_id": 8,
+    "className": "Photography Basics",
+    "image": "https://i.ibb.co/18hJvgF/photography.jpg",
+    "instructorName": "Sarah Johnson",
+    "price": 49.99,
+    "availableSeats": 15,
+    "selectButton": "Enroll Now"
+  },
+  {
+    "_id": 9,
+    "className": "Cybersecurity Fundamentals",
+    "image": "https://i.ibb.co/3FXymb7/cybersecurity.jpg",
+    "instructorName": "Daniel White",
+    "price": 69.99,
+    "availableSeats": 10,
+    "selectButton": "Enroll Now"
+  },
+  {
+    "_id": 10,
+    "className": "Business Finance 101",
+    "image": "https://i.ibb.co/9hjXzvR/finance.jpg",
+    "instructorName": "Olivia Taylor",
+    "price": 59.99,
+    "availableSeats": 18,
+    "selectButton": "Enroll Now"
+  },
+  {
+    "_id": 11,
+    "className": "UI/UX Design Principles",
+    "image": "https://i.ibb.co/cJTB7kL/ui_ux_design.jpg",
+    "instructorName": "Ryan Wilson",
+    "price": 79.99,
+    "availableSeats": 14,
+    "selectButton": "Enroll Now"
+  },
+  {
+    "_id": 12,
+    "className": "Python for Data Analysis",
+    "image": "https://i.ibb.co/FKZvj7C/python_data_analysis.jpg",
+    "instructorName": "Eva Martinez",
+    "price": 69.99,
+    "availableSeats": 16,
+    "selectButton": "Enroll Now"
+  },
+  {
+    "_id": 13,
+    "className": "Game Development Basics",
+    "image": "https://i.ibb.co/5THCr9z/game_dev.jpg",
+    "instructorName": "Chris Turner",
+    "price": 89.99,
+    "availableSeats": 12,
+    "selectButton": "Enroll Now"
+  },
+  {
+    "_id": 14,
+    "className": "English Literature Masterclass",
+    "image": "https://i.ibb.co/stPpYBD/english_literature.jpg",
+    "instructorName": "Grace Evans",
+    "price": 49.99,
+    "availableSeats": 20,
+    "selectButton": "Enroll Now"
+  },
+  {
+    "_id": 15,
+    "className": "Social Media Marketing",
+    "image": "https://i.ibb.co/pWQ8CtD/social_media_marketing.jpg",
+    "instructorName": "Mark Anderson",
+    "price": 79.99,
+    "availableSeats": 15,
+    "selectButton": "Enroll Now"
+  },
+  {
+    "_id": 16,
+    "className": "Spanish Language Basics",
+    "image": "https://i.ibb.co/CHrPWmh/spanish_language.jpg",
+    "instructorName": "Isabella Rodriguez",
+    "price": 39.99,
+    "availableSeats": 18,
+    "selectButton": "Enroll Now"
+  },
+  {
+    "_id": 17,
+    "className": "Business Ethics",
+    "image": "https://i.ibb.co/LRPnfwS/business_ethics.jpg",
+    "instructorName": "Peter Clark",
+    "price": 59.99,
+    "availableSeats": 14,
+    "selectButton": "Enroll Now"
+  },
+  {
+    "_id": 18,
+    "className": "Java Programming Advanced",
+    "image": "https://i.ibb.co/rpMK18T/java_advanced.jpg",
+    "instructorName": "Carlos Garcia",
+    "price": 79.99,
+    "availableSeats": 10,
+    "selectButton": "Enroll Now"
+  },
+  {
+    "_id": 19,
+    "className": "Interior Design Concepts",
+    "image": "https://i.ibb.co/BC16g4m/interior_design.jpg",
+    "instructorName": "Sophie Turner",
+    "price": 69.99,
+    "availableSeats": 16,
+    "selectButton": "Enroll Now"
+  },
+  {
+    "_id": 20,
+    "className": "Creative Writing Workshop",
+    "image": "https://i.ibb.co/XyvWsx5/creative_writing.jpg",
+    "instructorName": "William Brown",
+    "price": 49.99,
+    "availableSeats": 20,
+    "selectButton": "Enroll Now"
+  }
+]

@@ -1,12 +1,32 @@
+import { useContext } from "react";
 import { Link } from "react-router-dom";
+import { AuthContext } from "../../../../Providers/AuthProviders";
 
 const Navber = () => {
+  const {user, logOut} = useContext(AuthContext)
+  console.log(user)
+
+const handleLogOut=()=> {
+logOut()
+.then(()=>{})
+.catch((error)=> console.log(error));
+}
+
     const optionItems = <>
      <li><Link to="/">Home</Link> </li>
-            
-    </>
+     <li><Link to="/secret">Secrite</Link> </li>
+     <li><Link to="/class">Classes</Link> </li>
+     {
+      user? <>  
+      <button onClick={handleLogOut} className="btn btn-active btn-ghost">Log Out</button>
+      <img className="w-12 h-12 rounded-full" src={user.photoURL} alt="" />
+      </>:<>
+      <li><Link to='/login'>Login</Link></li>
+      </>
+       }
+        </>
     return (
-        <div className="navbar bg-base-100">
+        <div className="navbar  fixed z-10 bg-opacity-30 max-w-screen-xl bg-black text-white">
         <div className="navbar-start">
           <div className="dropdown">
             <label tabIndex={0} className="btn btn-ghost lg:hidden">

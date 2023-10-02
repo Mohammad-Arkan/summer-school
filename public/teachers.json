@@ -1,0 +1,38 @@
+[
+    {
+      "_id": 1,
+      "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-1-370x247.jpg",
+      "name": "John Smith",
+      "email": "john.smith@example.com"
+    },
+    {
+      "_id": 2,
+      "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-1-370x247.jpg",
+      "name": "Jane Doe",
+      "email": "jane.doe@example.com"
+    },
+    {
+      "_id": 3,
+      "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-1-370x247.jpg",
+      "name": "Michael Johnson",
+      "email": "michael.johnson@example.com"
+    },
+    {
+      "_id": 4,
+      "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-1-370x247.jpg",
+      "name": "Sarah Brown",
+      "email": "sarah.brown@example.com"
+    },
+    {
+      "_id": 5,
+      "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-1-370x247.jpg",
+      "name": "David Wilson",
+      "email": "david.wilson@example.com"
+    },
+    {
+      "_id": 6,
+      "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-1-370x247.jpg",
+      "name": "Emily Davis",
+      "email": "emily.davis@example.com"
+    }
+  ]
